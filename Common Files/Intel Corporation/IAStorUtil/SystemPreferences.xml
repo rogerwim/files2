@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmailSettings>
+    <ShowError>false</ShowError>
+    <ShowWarning>false</ShowWarning>
+    <ShowInfo>false</ShowInfo>
+    <EnableEmail>false</EnableEmail>
+    <Port>25</Port>
+  </EmailSettings>
+</SystemPreferences>

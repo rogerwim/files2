@@ -1,0 +1,9 @@
+﻿{
+    "Name":"SettingsServiceModule",
+    "Services":
+    {
+        "root":"/"
+    },
+    "OwinStartupAssemblyName":"Microsoft.VsHub.SettingsServiceModule",
+    "OwinStartupClassName":"Microsoft.Internal.VsHub.Server.SettingsServiceModule.Startup"
+}

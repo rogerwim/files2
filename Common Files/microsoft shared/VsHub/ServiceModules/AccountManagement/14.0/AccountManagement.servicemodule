@@ -1,0 +1,9 @@
+﻿{
+    "Name":"Microsoft.VsHub.AccountManagementServiceModule",
+    "Services":
+    {
+        "AccountsRoamingService":"api/AccountsRoamingService"
+    },
+    "OwinStartupAssemblyName":"Microsoft.VsHub.AccountManagementServiceModule",
+    "OwinStartupClassName":"Microsoft.VsHub.AccountManagementServiceModule.Startup"
+}

@@ -1,0 +1,10 @@
+{
+    "Name":"PubSub",
+    "Services":
+    {
+        "signalr":"signalr",
+        "root":"/"
+    },
+    "OwinStartupAssemblyName":"Microsoft.VsHub.PubSubService",
+    "OwinStartupClassName":"Microsoft.VsHub.PubSubService.Startup"
+}
